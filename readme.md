@@ -17,6 +17,8 @@ Este script de Bash te permite generar códigos QR para acceder a proyectos loca
 
 4. Escanea el código QR con la aplicación de escaneo de QR de tu dispositivo móvil.
 
+![GIF de ejemplo](./example.gif)
+
 ## Requisitos
 
 - Linux (probado en Ubuntu)
